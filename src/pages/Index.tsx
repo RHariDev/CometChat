@@ -112,7 +112,7 @@ const Index = () => {
               </a>
             </div>
             <div className="flex items-center space-x-4">
-              <Button variant="ghost" className="text-white hover:bg-white/10">
+              <Button variant="ghost" className="text-white hover:text-white hover:bg-white/10">
                 Log in
               </Button>
               <Button className="bg-purple-600 hover:bg-purple-700 text-white shadow-lg shadow-purple-600/50 hover:shadow-purple-600/70 transition-all duration-200">
